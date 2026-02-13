@@ -50,6 +50,24 @@ Une application web moderne pour suivre et analyser vos activités sportives à 
 - Export JSON pour sauvegarde complète
 - Copie du résumé dans le presse-papiers
 
+## 📸 Captures d'écran
+
+### Tableau de bord
+![Accueil](pics/Accueil.png)
+*Vue d'ensemble de vos activités avec statistiques globales, répartition par sport et activités récentes*
+
+### Détail d'une activité
+![Activité](pics/Activite.png)
+*Analyse complète avec carte GPS interactive, graphiques de performance et statistiques détaillées*
+
+### Import d'activités
+![Importation](pics/Importation.png)
+*Interface d'import par glisser-déposer pour vos fichiers TCX et synchronisation Strava*
+
+### Statistiques avancées
+![Statistiques](pics/Statistiques.png)
+*Analyse approfondie de vos performances avec graphiques et métriques détaillées*
+
 ## 🚀 Technologies utilisées
 
 - **React 19** avec TypeScript
